@@ -1,1 +1,2 @@
 # ds_libraries_exercises
+Codeup data science ds_libraries_exercises repository
